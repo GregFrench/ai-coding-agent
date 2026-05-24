@@ -1,4 +1,4 @@
-# Local Coding Agent
+# AI Coding Agent
 
 A small coding agent that runs on your machine using an open-source Hugging Face Transformers model. Ollama and OpenAI-compatible local servers are still supported as optional adapters, but Transformers is the default runtime.
 
